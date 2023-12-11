@@ -1,0 +1,2 @@
+turtlebot_archnoid
+-DCATKIN_DEVEL_PREFIX=/home/archnoid/example_1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/archnoid/example_1_ws/install -G Unix Makefiles

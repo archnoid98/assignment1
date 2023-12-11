@@ -1,0 +1,8 @@
+prefix=/home/archnoid/example_1_ws/install
+
+Name: turtlebot_archnoid
+Description: Description of turtlebot_archnoid
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
